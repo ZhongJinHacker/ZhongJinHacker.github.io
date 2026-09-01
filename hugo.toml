@@ -1,0 +1,78 @@
+baseURL = "https://ZhongJinHacker.github.io/"
+languageCode = "zh-cn"
+defaultContentLanguage = "zh"
+title = "ZhongJinHacker"
+theme = "PaperMod"
+enableGitInfo = true
+
+[params]
+  description = "Personal blog and resume"
+  author = "ZhongJinHacker"
+  defaultTheme = "auto"
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[params.profileMode]
+  enabled = true
+  title = "ZhongJinHacker"
+  subtitle = "Software Engineer / Developer"
+  imageUrl = "https://github.com/ZhongJinHacker.png"
+  imageWidth = 160
+  imageHeight = 160
+
+[[params.profileMode.buttons]]
+  name = "About"
+  url = "/about/"
+
+[[params.profileMode.buttons]]
+  name = "Resume"
+  url = "/resume/"
+
+[[params.profileMode.buttons]]
+  name = "Blog"
+  url = "/posts/"
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/ZhongJinHacker"
+
+[[menu.main]]
+  identifier = "blog"
+  name = "Blog"
+  url = "/posts/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/about/"
+  weight = 20
+
+[[menu.main]]
+  identifier = "resume"
+  name = "Resume"
+  url = "/resume/"
+  weight = 30
+
+[[menu.main]]
+  identifier = "tags"
+  name = "Tags"
+  url = "/tags/"
+  weight = 40
+
+[[menu.main]]
+  identifier = "categories"
+  name = "Categories"
+  url = "/categories/"
+  weight = 50
+
+[markup.highlight]
+  style = "dracula"
+  lineNos = false
+  codeFences = true
+  guessSyntax = true
