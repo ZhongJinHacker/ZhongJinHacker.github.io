@@ -76,3 +76,6 @@ enableGitInfo = true
   lineNos = false
   codeFences = true
   guessSyntax = true
+
+[markup.goldmark.renderer]
+  unsafe = true
