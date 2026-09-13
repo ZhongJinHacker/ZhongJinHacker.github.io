@@ -2,20 +2,40 @@
 title: "About"
 date: 2026-09-01
 draft: false
-description: "About ZhongJinHacker"
+description: "ZhongJinHacker 的个人介绍：计算机发烧友，关注 AI 平台、智能体与推理优化"
 ---
 
-Hi, I'm **ZhongJinHacker**.
+你好，我是 **ZhongJinHacker**，一名计算机发烧友。这里是我的技术笔记、项目实践、源码分析和长期思考的记录空间。
 
-I'm a software engineer interested in building reliable products and learning in public. This site is my personal space for notes, projects, and long-form thinking.
+## 技术栈
 
-## Focus
+我主要使用 **Java** 和 **Python** 进行工程开发，也写过一些 **Go** 项目，用来探索轻量服务和工具链场景下的实现取舍。
 
-- Software engineering
-- Backend and web development
-- Developer experience
-- Open source
+- **Java / Spring Cloud**：后端服务、分布式系统与高并发服务设计
+- **Python**：数据处理、自动化、AI 平台与工程化开发
+- **Go**：轻量服务与工具链实践
+- **Kubernetes / Docker**：项目部署、服务编排与环境标准化
+- **Spark / Flink**：离线批处理与实时流计算
+- **AI / LLM 工程**：AI 平台、智能体研发、模型部署与推理优化
 
-## Contact
+## 当前工作
 
-- GitHub: [ZhongJinHacker](https://github.com/ZhongJinHacker)
+目前我主要在公司进行 **AI 平台** 和 **AI 智能体** 方向的研发工作，关注平台能力建设、智能体工程化和业务场景落地。工作内容涉及服务设计、任务编排、推理链路、数据流转与工程稳定性。
+
+## 研究兴趣
+
+- 模型在消费级显卡上的部署
+- 高吞吐推理服务与推理性能优化
+- AI 平台与智能体在真实业务中的可用性、稳定性和成本控制
+- 量化、批处理、显存管理与本地部署场景优化
+
+## 关于这个博客
+
+这个博客主要记录：
+
+- 开发中踩过的坑和解决方案
+- 中间件、大数据组件和底层机制的源码分析
+- AI 工程化、推理优化与智能体实践
+- 算法、工程实践和学习笔记
+
+如果你对我的技术方向或内容感兴趣，欢迎通过 GitHub 联系我：[ZhongJinHacker](https://github.com/ZhongJinHacker)。
