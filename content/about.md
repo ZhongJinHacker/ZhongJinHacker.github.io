@@ -38,4 +38,9 @@ description: "ZhongJinHacker 的个人介绍：计算机发烧友，关注 AI �
 - AI 工程化、推理优化与智能体实践
 - 算法、工程实践和学习笔记
 
-如果你对我的技术方向或内容感兴趣，欢迎通过 GitHub 联系我：[ZhongJinHacker](https://github.com/ZhongJinHacker)。
+## 联系方式
+
+- Email：[jiangzhongjin@hotmail.com](mailto:jiangzhongjin@hotmail.com)
+- GitHub：[ZhongJinHacker](https://github.com/ZhongJinHacker)
+
+如需沟通工作机会、技术合作或项目交流，可以通过以上方式联系我。
